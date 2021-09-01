@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on [Student at Trybe](https://www.betrybe.com/)
 
+<h2>Here is the complete list of all knowledge passed on the trybe course including all projects [Access Trybe List](https://github.com/FelipeFloresWeb/trybe-exercises/#readme)</h2>
+
 
 - 💬 Ask me about **React, HTML, CSS, JavaScript, NodeJs, Express, Oracle, Mysql, Mongo-db...**
 

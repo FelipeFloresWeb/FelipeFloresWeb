@@ -3,8 +3,8 @@
 
 - 🔭 I’m currently working on _[Student at Trybe](https://www.betrybe.com/)
 
-<h3>Follow the link to access all the complete list of all knowledge passed on the Trybe course including, all projects<a href="https://github.com/FelipeFloresWeb/trybe-exercises/#readme" target="blank">
-  click here</a></h3>
+<h2>Follow the link to access all the complete list of all knowledge passed on the Trybe course including, all projects<a href="https://github.com/FelipeFloresWeb/trybe-exercises/#readme" target="blank">
+  click here</a></h2>
 
 
 - 💬 Ask me about **React, HTML, CSS, JavaScript, NodeJs, Express, Oracle, Mysql, Mongo-db...**

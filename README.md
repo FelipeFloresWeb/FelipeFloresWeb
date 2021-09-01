@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Felipe Flores</h1>
 <h3 align="center">A passionate about systems development</h3>
 
-- 🔭 I’m currently working on [Student at Trybe](https://www.betrybe.com/)
+- 🔭 I’m currently working on _[Student at Trybe](https://www.betrybe.com/)
 
-<h2>Here is the complete list of all knowledge passed on the trybe course including all projects [Access Trybe List](https://github.com/FelipeFloresWeb/trybe-exercises/#readme)</h2>
+<h2>Follow the link to access all the complete list of all knowledge passed on the trybe course including, all projects<a href="https://github.com/FelipeFloresWeb/trybe-exercises/#readme" target="blank">
+  click here</a></h2>
 
 
 - 💬 Ask me about **React, HTML, CSS, JavaScript, NodeJs, Express, Oracle, Mysql, Mongo-db...**

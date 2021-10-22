@@ -38,12 +38,12 @@
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a>
   
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipefloresweb&show_icons=true&locale=en&layout=compact&theme=dark" alt="felipefloresweb" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=FelipeFloresWeb&show_icons=true&locale=en&layout=compact&theme=dark" alt="FelipeFloresWeb" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=felipefloresweb&show_icons=true&locale=en&theme=dark" alt="felipefloresweb" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=FelipeFloresWeb&show_icons=true&locale=en&theme=dark" alt="FelipeFloresWeb" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipefloresweb&show_icons=true&locale=en&layout=compact" alt="felipefloresweb" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=FelipeFloresWeb&show_icons=true&locale=en&layout=compact" alt="FelipeFloresWeb" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=felipefloresweb&show_icons=true&locale=en" alt="felipefloresweb" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=FelipeFloresWeb&show_icons=true&locale=en" alt="FelipeFloresWeb" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felipefloresweb&" alt="felipefloresweb" /></p> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeFloresWeb&" alt="FelipeFloresWeb" /></p> 

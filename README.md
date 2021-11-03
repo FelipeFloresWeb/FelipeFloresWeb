@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Felipe Flores</h1>
 <h3 align="center">A passionate about systems development</h3>
 
-- 🔭 I’m Ful Stack Developer currently working on [Student at Trybe](https://www.betrybe.com/) and looking for a job. (Hey Tech recruiter "call me" :sunrise:)
+# - 🔭 I’m Ful Stack Developer currently working on [Student at Trybe](https://www.betrybe.com/) and looking for a job. :sunrise:
 
 <h2>Follow the link to access all the complete list of all knowledge passed on the Trybe course including, all projects<a href="https://github.com/FelipeFloresWeb/trybe-exercises/#readme" target="blank">
   click here</a></h2>

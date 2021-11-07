@@ -16,7 +16,7 @@
 </p>
 
 
-<h3 align="left">Linguagens e ferramentas:</h3>
+<h2 align="left">Linguagens e ferramentas:</h2>
 <p align="left">
   <h2>Back-end:</h2>
   <a href="https://nodejs.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="node" width="100" height="100"/> </a>

@@ -1,24 +1,23 @@
-<h1 align="center">Hi 👋, I'm Felipe Flores</h1>
-<h3 align="center">A passionate about systems development</h3>
+<h1 align="center">Olá 👋, me chamo Felipe Flores</h1>
+<h3 align="center">"Apaixonado pela tecnologia e desenvolvimento de sistemas".</h3>
 
-# - 🔭 I’m Ful Stack Developer currently working on [Student at Trybe](https://www.betrybe.com/) and looking for a job. :sunrise:
+## - 🔭 Atualmente estou estudando na [Trybe](https://www.betrybe.com/). :sunrise:
 
-<h2>Follow the link to access all the complete list of all knowledge passed on the Trybe course including, all projects<a href="https://github.com/FelipeFloresWeb/trybe-exercises/#readme" target="blank">
-  click here</a></h2>
+<h2>Clique no link para acessar a lista completa de todo o conteúdo passado pela trybe, incluindo todos meus projetos <a href="https://github.com/FelipeFloresWeb/trybe-exercises/#readme" target="blank">Clique Aqui!</a></h2>
 
 
-- 💬 Ask me about **React, HTML, CSS, JavaScript, NodeJs, Express, Oracle, Mysql, Mongo-db...**
+- 💬 Pergunte-me sobre **React, HTML, CSS, JavaScript, NodeJs, Express, Oracle, Mysql, Mongo-db...**
 
-- 📫 How to reach me **felipefloresvendas@gmail.com**
+- 📫 Email: **felipefloresvendas@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/felipe-flores-trybe" target="_blank"> <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="felipe-flores-trybe" /></a>
   <a href="https://www.instagram.com/felipeflores252/" target="_blank"> <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="felipe-flores-instagram" /></a>
 </p>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Linguagens e ferramentas:</h3>
 <p align="left">
   <a href="https://nodejs.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="node" width="50" height="50"/> </a>
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongoDb" width="50" height="50"/> </a>

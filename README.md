@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, me chamo Felipe Flores</h1>
-<h3 align="center">"Apaixonado pela tecnologia e desenvolvimento de sistemas".</h3>
+<h3 align="center">"Apaixonado pela tecnologia e desenvolvimento de sistemas"</h3>
 
 ## - 🔭 Atualmente estou estudando na [Trybe](https://www.betrybe.com/). :sunrise:
 

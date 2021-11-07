@@ -37,7 +37,7 @@
   </p>
   
   <h3>Testes:</h3>
-  <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="70" height="10070 </a>
+  <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="70" height="70 </a>
   <a href="https://mochajs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg" alt="mocha" width="70" height="70"/> </a>
 
 <br>

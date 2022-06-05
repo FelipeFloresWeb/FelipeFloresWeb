@@ -40,6 +40,9 @@
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="100" height="100"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="100" height="100"/> </a>
   <a href="https://nextjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextJs" width="100" height="100"/> </a>
+  <a href="https://styled-components.com/" target="_blank"> <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" alt="styledComponent" width="100" height="100"/> </a>
+  </p>
+   <a href="https://chakra-ui.com/" target="_blank"> <img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/logo/logo-colored@2x.png?raw=true" alt="nextJs" width="300" height="75"/> </a>
   </p>
   
   <h2>Testes:</h2>

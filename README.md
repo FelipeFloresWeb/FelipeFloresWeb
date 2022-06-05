@@ -14,11 +14,14 @@
 
 
 <h2 align="left">Linguagens e ferramentas:</h2>
+<h2 align="left">Linguagens</h2>
 <p align="left">
    <a href="https://www.typescriptlang.org/docs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="100" height="100"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="100" height="100"/> </a>
+  <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="100" height="100"/> </a>
   </p>
 <p align="left">
+  <h2 align="left">Ferramentas:</h2>
   <h2>Back-end:</h2>
   <a href="https://nodejs.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="node" width="100" height="100"/> </a>
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongoDb" width="100" height="100"/> </a>

@@ -13,7 +13,7 @@
 </p>
 
 
-<h2 align="left">Linguagens e ferramentas:</h2>
+<h1 align="left">Linguagens e ferramentas:</h2>
 <h2 align="left">Linguagens</h2>
 <p align="left">
    <a href="https://www.typescriptlang.org/docs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="100" height="100"/> </a>
@@ -21,7 +21,7 @@
   <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="100" height="100"/> </a>
   </p>
 <p align="left">
-  <h2 align="left">Ferramentas:</h2>
+  <h1 align="left">Ferramentas:</h2>
   <h2>Back-end:</h2>
   <a href="https://nodejs.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="node" width="100" height="100"/> </a>
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongoDb" width="100" height="100"/> </a>
@@ -42,9 +42,9 @@
   <a href="https://nextjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextJs" width="100" height="100"/> </a>
   </p>
   
-  <h3>Testes:</h3>
+  <h2>Testes:</h2>
   <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="70" height="70 </a>
-  <a href="https://mochajs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg" alt="mocha" width="70" height="70"/> </a>
+  <a href="https://mochajs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg" alt="mocha" width="100" height="100"/> </a>
   
   <p align="left">
   <h2>Ciências da computação:</h2>

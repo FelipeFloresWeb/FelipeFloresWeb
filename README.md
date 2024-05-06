@@ -42,7 +42,7 @@
   <a href="https://nextjs.org/" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/nextjs-icon-128x76-yq67z4th.png" alt="nextJs" width="100" height="100"/> </a>
   <a href="https://styled-components.com/" target="_blank"> <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" alt="styledComponent" width="100" height="100"/> </a>
   </p>
-   <a href="https://chakra-ui.com/" target="_blank"> <img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/logo/logo-colored@2x.png?raw=true" alt="nextJs" width="300" height="75"/> </a>
+   <a href="https://chakra-ui.com/" target="_blank"> <img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/media/logo-colored@2x.png?raw=true" alt="chakraUi" width="300" height="75"/> </a>
   </p>
   
   <h2>Tests:</h2>

@@ -1,20 +1,20 @@
-<h1 align="center">Olá 👋, me chamo Felipe Flores</h1>
-<h2 align="center">Desenvolvedor Web Full Stack</h2>
-<h2 align="center">"Apaixonado pela tecnologia e desenvolvimento de sistemas"</h2>
+<h1 align="center">Hello 👋, my name is Felipe Flores</h1>
+<h2 align="center">Full Stack Web Developer</h2>
+<h2 align="center">"Passionate about technology and system development"</h2>
 
-<h2>Clique no link para acessar a lista completa de todo o conteúdo passado pela trybe, incluindo todos meus projetos <a href="https://github.com/FelipeFloresWeb/trybe-exercises/#readme" target="blank">Clique Aqui!</a></h2>
+<h2>Click the link to access the complete list of all the content provided by Trybe, including all my projects <a href="https://github.com/FelipeFloresWeb/trybe-exercises/#readme" target="blank">Click Here!</a></h2>
 
 - 📫 Email: **felipefloresvendas@gmail.com**
 
-<h3 align="left">Conecte-se comigo:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/felipe-flores-dev" target="_blank"> <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="felipe-flores-trybe" /></a>
   <a href="https://www.instagram.com/felipeflores252/" target="_blank"> <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="felipe-flores-instagram" /></a>
 </p>
 
 
-<h1 align="left">Linguagens e ferramentas:</h2>
-<h2 align="left">Linguagens</h2>
+<h1 align="left">Languages and frameworks:</h2>
+<h2 align="left">Languages</h2>
 <p align="left">
    <a href="https://www.typescriptlang.org/docs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="100" height="100"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="100" height="100"/> </a>

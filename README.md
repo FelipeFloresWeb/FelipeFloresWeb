@@ -21,7 +21,7 @@
   <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="100" height="100"/> </a>
   </p>
 <p align="left">
-  <h1 align="left">Ferramentas:</h2>
+  <h1 align="left">Frameworks:</h2>
   <h2>Back-end:</h2>
   <a href="https://nodejs.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="node" width="100" height="100"/> </a>
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongoDb" width="100" height="100"/> </a>
@@ -45,12 +45,12 @@
    <a href="https://chakra-ui.com/" target="_blank"> <img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/logo/logo-colored@2x.png?raw=true" alt="nextJs" width="300" height="75"/> </a>
   </p>
   
-  <h2>Testes:</h2>
+  <h2>Tests:</h2>
   <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="70" height="70 </a>
   <a href="https://mochajs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg" alt="mocha" width="100" height="100"/> </a>
   
   <p align="left">
-  <h2>Ciências da computação:</h2>
+  <h2>Computer Science:</h2>
   <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="100" height="100"/> </a>
 
 <br>
